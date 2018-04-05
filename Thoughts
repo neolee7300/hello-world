@@ -1,0 +1,9 @@
+
+Q: Can I use linux git clone github repository, make branches, commits then push it back? 
+A:  Yes you can use it just like normal git.  The only difference is your remote repository is github now.
+
+Q: How can I control the push access?
+A: You don't need password to pull. However you need github username and password to push. 
+
+Q: How could I utilize the github pull request function through linux git?
+A: After you push local branches to github, you can initiate the pull requests from github.com 
